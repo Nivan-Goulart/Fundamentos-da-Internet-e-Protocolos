@@ -1,6 +1,6 @@
 # Fundamentos da Internet e Protocolos
 
-## 1. Como a Internet Funciona
+## Como a Internet Funciona
 
 ### Visão Geral
 A internet é uma rede global que conecta milhões de dispositivos, permitindo comunicação e troca de dados através de uma infraestrutura complexa.
@@ -13,7 +13,7 @@ A internet é uma rede global que conecta milhões de dispositivos, permitindo c
 - **Pacotes:** Dados são divididos em pacotes pequenos e enviados por diferentes rotas.
 - **Roteamento:** Roteadores direcionam os pacotes pela rede.
 
-## 2. HTTP/HTTPS
+## HTTP/HTTPS
 
 ### Definição e Funcionamento
 - **HTTP (Hypertext Transfer Protocol):** Protocolo que permite a comunicação na web para a transmissão de dados como páginas.
@@ -43,31 +43,31 @@ A internet é uma rede global que conecta milhões de dispositivos, permitindo c
 - **404 Not Found:** Recurso não encontrado.
 - **500 Internal Server Error:** Erro no servidor.
 
-## 3. Domínio
+## Domínio
 
 ### Definição
 Nome que identifica um site na web, facilitando a navegação. 
 - Exemplo: `www.exemplo.com` é um nome de domínio que leva a um site específico.
 
-## 4. IP (Endereço IP)
+## IP (Endereço IP)
 
 ### Definição
 Identificador numérico único para cada dispositivo na rede. 
 - Exemplo: Um endereço IP pode ser `192.168.1.1`, identificando um dispositivo específico.
 
-## 5. Host
+## Host
 
 ### Definição
 Computador ou servidor que armazena e fornece acesso a sites e serviços. 
 - Exemplo: Um servidor web que hospeda um site é um host.
 
-## 6. DNS (Sistema de Nomes de Domínio)
+## DNS (Sistema de Nomes de Domínio)
 
 ### Definição
 Sistema que traduz nomes de domínio em endereços IP. 
 - Exemplo: O DNS converte `www.exemplo.com` em um endereço IP como `93.184.216.34` para que os navegadores possam encontrar o site.
 
-## 7. Cliente-Servidor
+## Cliente-Servidor
 
 ### Modelo Cliente-Servidor
 Estrutura onde clientes solicitam serviços e servidores fornecem respostas.
@@ -76,7 +76,7 @@ Estrutura onde clientes solicitam serviços e servidores fornecem respostas.
 - **Navegação na Web:** Navegador (cliente) solicita páginas web; servidor envia as páginas.
 - **E-mail:** Cliente de e-mail envia mensagens para um servidor de e-mail que entrega as mensagens.
 
-## 8. Redes e Topologias
+## Redes e Topologias
 
 ### Redes
 - **LAN (Rede Local):** Conecta dispositivos em uma área limitada.
@@ -86,7 +86,7 @@ Estrutura onde clientes solicitam serviços e servidores fornecem respostas.
 - **Topologia em Estrela:** Dispositivos conectados a um ponto central.
 - **Topologia em Malha:** Dispositivos interconectados, oferecendo múltiplos caminhos.
 
-## 9. Navegadores e Servidores Web
+## Navegadores e Servidores Web
 
 ### Navegadores
 Softwares que interpretam e exibem páginas web (Chrome, Firefox, etc.).
@@ -94,7 +94,7 @@ Softwares que interpretam e exibem páginas web (Chrome, Firefox, etc.).
 ### Servidores Web
 Programas que armazenam e fornecem páginas web para navegadores.
 
-## 10. Segurança na Internet
+## Segurança na Internet
 
 ### Criptografia
 Métodos de proteger dados através de codificação para segurança durante a transmissão.
